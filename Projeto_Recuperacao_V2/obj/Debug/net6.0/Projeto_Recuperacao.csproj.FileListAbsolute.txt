@@ -1,0 +1,15 @@
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\bin\Debug\net6.0\Projeto_Recuperacao.exe
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\bin\Debug\net6.0\Projeto_Recuperacao.deps.json
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\bin\Debug\net6.0\Projeto_Recuperacao.runtimeconfig.json
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\bin\Debug\net6.0\Projeto_Recuperacao.dll
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\bin\Debug\net6.0\Projeto_Recuperacao.pdb
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.dll
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\refint\Projeto_Recuperacao.dll
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.pdb
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\Projeto_Recuperacao.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Atividade_Recuperacao_UC9\Projeto_Recuperacao\obj\Debug\net6.0\ref\Projeto_Recuperacao.dll
